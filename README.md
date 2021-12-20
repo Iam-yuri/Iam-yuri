@@ -1,4 +1,4 @@
-### Hi everyone, I'am Yuri!
+### Hi everyone, I'am Yuri! <img align="center" alt="Bea-GifNome" height="50" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b4aba1b-d2a3-4f69-8a99-891fea3c2e8c/ddql7cx-9a8d982c-d241-4b2d-b209-df94a505d1b5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFiNGFiYTFiLWQyYTMtNGY2OS04YTk5LTg5MWZlYTNjMmU4Y1wvZGRxbDdjeC05YThkOTgyYy1kMjQxLTRiMmQtYjIwOS1kZjk0YTUwNWQxYjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GRHIlNL9pNYqFsORxmaeDETSc1htV6ZCesymleIrrqw">
 
 
 - 📚 Atualmente estou estudando para ser um desenvovedor Full-Stack
