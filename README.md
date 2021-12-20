@@ -2,7 +2,7 @@
 
 
 - 📚 Atualmente estou estudando para ser um desenvovedor Full-Stack
-- 💫 Estudar e aprender é um dos meus pontos fortes.
+- 💫 Estudar e aprender são os meus pontos fortes.
 - 🎮 Futuro desenvolvedor de jogos
 
 <div align="center">
