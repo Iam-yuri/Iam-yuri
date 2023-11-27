@@ -1,7 +1,7 @@
 ### Hi everyone, I'am Yuri! <img align="center" alt="Yuri-GifNome" height="70" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b74aed10-9d9e-41f7-81f4-5735b00bff77/dd4h79e-9dae50ae-67cb-4b4c-bbea-4a10cf4f4fcf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3NGFlZDEwLTlkOWUtNDFmNy04MWY0LTU3MzViMDBiZmY3N1wvZGQ0aDc5ZS05ZGFlNTBhZS02N2NiLTRiNGMtYmJlYS00YTEwY2Y0ZjRmY2YuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bSuAL5SeFBhOvd6LkLK5dmLqP3LUhLTUTt7BYKbpzhM">
 
 
-- 💻 Back-end development
+- 💻 Back-end developer
 - 💫 Estudar e aprender são os meus pontos fortes.
 - 🎮 Futuro desenvolvedor de jogos
 
