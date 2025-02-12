@@ -17,7 +17,7 @@
   <img align="center" alt="Yuri-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Yuri-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Picrew-art" height="170" src="https://cdn.picrew.me/shareImg/org/202408/480390_msWoiKdG.png">
+  <img align="right" alt="Picrew-art" height="170" src="https://cdn.picrew.me/shareImg/org/202502/11534_LR6i4jOY.png">
   
   ##
   
