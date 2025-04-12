@@ -44,12 +44,10 @@
 
 ---
 
-### ⚡ Contribuições em ação:
-
-![Snake animation](https://github.com/Iam-yuri/Iam-yuri/blob/output/snake.svg)
-
----
-
 <div align="right">
   <img align="right" alt="Picrew-art" height="170" src="https://cdn.picrew.me/shareImg/org/202502/11534_LR6i4jOY.png">
 </div>
+
+### ⚡ Contribuições em ação:
+
+![Snake animation](https://github.com/Iam-yuri/Iam-yuri/blob/output/snake.svg)
