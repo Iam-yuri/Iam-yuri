@@ -22,7 +22,12 @@ jobs:
         uses: Platane/snk@v3  
         with:
           github_user_name: iam-yuri  
-          gif_out_path: dist/github-contribution-grid-snake.gif  
+          entryPoint: "dist/github-contribution-grid-snake.gif"  
+
+      - name: Verify Snake GIF Generation
+        run: |
+          ls -l dist  # Lista os arquivos no diretório dist para garantir que o GIF foi gerado
+          file dist/github-contribution-grid-snake.gif  # Verifica o tipo de arquivo gerado
 
       - name: Check if output branch exists
         run: |
