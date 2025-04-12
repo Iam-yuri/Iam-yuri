@@ -43,7 +43,7 @@
 </div>
 
 <div align="right">
-  <img align="right" alt="Picrew-art" height="170" src="https://cdn.picrew.me/shareImg/org/202502/11534_LR6i4jOY.png">
+  <img align="right" alt="Picrew-art" height="150" src="https://cdn.picrew.me/shareImg/org/202502/11534_LR6i4jOY.png">
 </div>
 
 ---
