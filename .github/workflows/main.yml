@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main  
+
 jobs:
   generate:
     runs-on: ubuntu-latest  
@@ -14,25 +15,37 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3  
 
+      - name: Create dist directory
+        run: mkdir -p dist  
+
       - name: Generate Snake
         uses: Platane/snk@v3  
         with:
-          github_user_name: iam-yuri
+          github_user_name: iam-yuri  
           svg_out_path: dist/github-contribution-grid-snake.svg  
 
-      - name: Create output branch if it doesn't exist
+      - name: Check if output branch exists
         run: |
           git fetch origin
-          git checkout -b output || git checkout output  # Tenta criar ou já acessar o branch output
-          git add dist/github-contribution-grid-snake.svg  # Adiciona a imagem gerada
+          git branch -r
+          if [[ "$(git branch -r | grep origin/output)" ]]; then
+            echo "Branch exists, switching to it."
+            git checkout output
+          else
+            echo "Branch doesn't exist, creating it."
+            git checkout -b output
+          fi  # Verifica se o branch 'output' existe e, se não, cria
+
+      - name: Commit and Push Snake Animation
+        run: |
+          git add dist/github-contribution-grid-snake.svg  # Adiciona a animação gerada
           git commit -m "Add snake animation" || echo "No changes to commit"
           git push origin output  # Empurra para o branch output
 
-      - name: Push snake animation to output branch
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3  
         with:
           target_branch: output  
-          build_dir: dist 
+          build_dir: dist  
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
-
