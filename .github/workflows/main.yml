@@ -18,12 +18,11 @@ jobs:
       - name: Create dist directory
         run: mkdir -p dist  
 
-      - name: Generate Snake
+      - name: Generate Snake GIF
         uses: Platane/snk@v3  
         with:
           github_user_name: iam-yuri  
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          gif_out_path: dist/github-contribution-grid-snake.gif  
 
       - name: Check if output branch exists
         run: |
@@ -39,7 +38,7 @@ jobs:
 
       - name: Commit and Push Snake Animation
         run: |
-          git add dist/github-contribution-grid-snake.svg  # Adiciona a animação gerada
+          git add dist/github-contribution-grid-snake.gif  # Adiciona a animação gerada (GIF)
           git commit -m "Add snake animation" || echo "No changes to commit"
           git push origin output  # Empurra para o branch output
 
