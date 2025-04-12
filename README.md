@@ -42,13 +42,11 @@
   <a href="https://www.linkedin.com/in/yuri-prado-dos-reis-709578213/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
----
-
 <div align="right">
   <img align="right" alt="Picrew-art" height="170" src="https://cdn.picrew.me/shareImg/org/202502/11534_LR6i4jOY.png">
 </div>
 
-### ⚡ Contribuições em ação:
+---
 
 <div align=center>
 
