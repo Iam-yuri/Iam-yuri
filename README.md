@@ -50,5 +50,5 @@
 
 ### ⚡ Contribuições em ação:
 
-![snake gif](https://github.com/iam-yuri/iam-yuri/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/iam-yuri/iam-yuri/blob/output/github-contribution-grid-snake.gif)
 
