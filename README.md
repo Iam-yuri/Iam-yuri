@@ -12,11 +12,7 @@
 
 ### 🚀 Tecnologias que uso:
 
-<div style="display: inline_block">
-  <img align="center" alt="Yuri-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Yuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yuri-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,python,docker,vscode,azure,mysql&perline=7)](https://skillicons.dev)
 
 ---
 
