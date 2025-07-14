@@ -3,7 +3,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 💻 Desenvolvedor Fullstack com foco em C# e Angular
+- 💻 Desenvolvedor Fullstack com foco em C# e .NET
 - 🤓 Tenho 21 anos e sou movido por desafios e aprendizados constantes
 - 🎮 Amante de jogos desde sempre, agora criando meus próprios sistemas
 - 🌱 Atualmente estudando ASP.NET Core, APIs REST e boas práticas de arquitetura
