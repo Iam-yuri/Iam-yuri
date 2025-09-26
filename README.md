@@ -3,7 +3,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 💻 Apenas um jovem em busca de automatiza a vida a partir do desenvolvimento
+- 💻 Apenas um jovem em busca de automatizar a vida a partir do desenvolvimento
 - 🤓 Tenho 21 anos e sou movido por desafios e aprendizados constantes
 - 🎮 Amante de jogos desde sempre, agora criando meus próprios sistemas
 - 🌱 Atualmente estudando desenvolvimento RPA com foco em automação e IA
